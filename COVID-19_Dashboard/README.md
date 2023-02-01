@@ -72,7 +72,7 @@ country-by-country source information](https://ourworldindata.org/coronavirus-te
     - You can click the blue buttons to drill down on the analysis
 
 1. **Glossary**
-![Vaccination Insights](Images/glossary.jpg)
+![Glossary](Images/glossary.jpg)
     - Lists all the terms used inside the report
 
 ---
