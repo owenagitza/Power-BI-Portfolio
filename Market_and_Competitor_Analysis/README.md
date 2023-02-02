@@ -29,7 +29,7 @@ As a data analyst, the task is to build a a market and competitor analysis repor
 ---
 
 ## Dataset Information
-The dataset used in this report is curated and maintained by [Microsoft](https://powerbi.microsoft.com/en-us/diad/). It is used for training Power BI data analyst with hands-on and real-world projects. You can find the complete dataset [here](https://drive.google.com/drive/folders/15zadnOIOcW7YIVyW_72NXg48ozg-YwrE?usp=share_link). The data you can find here includes:
+The dataset used in this report is curated and maintained by [Microsoft](https://powerbi.microsoft.com/en-us/diad/). It is used for training Power BI data analyst with hands-on and real-world projects. You can find the complete dataset [here](https://drive.google.com/drive/folders/15zadnOIOcW7YIVyW_72NXg48ozg-YwrE?usp=share_link). After downloading the dataset, merge it inside a folder and put it in the directory where you store local repository. The data you can find here includes:
 
 - **International Sales:** Consists of individual sales data of VanArsdel and competitors for these countries:
     - Australia
@@ -88,7 +88,6 @@ Open the directory `~\Market_and_Competitor_Analysis\Data\USSales` and open `Pat
 1. Close and apply
 
 ### Open on the Web
-
 If you are short on time, you can view it in the [web here](https://app.powerbi.com/view?r=eyJrIjoiMzE1MTgwNGItOTY3Zi00MGRkLWI2ODktMWJiNmNhN2RkNWEzIiwidCI6IjFjNzkxY2Y3LTIwODctNGYyMC1hMGQzLTIwNjEyNGM2ZDllZiIsImMiOjEwfQ%3D%3D).
 
 ---
