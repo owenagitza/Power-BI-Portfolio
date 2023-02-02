@@ -84,9 +84,7 @@ Remember to **refresh** the dataset first to get the latest real time data by go
 ![Refresh](Images/refresh.jpg)
 
 ### Open on the Web
-If you are short on time, you can view it in the [web here](https://app.powerbi.com/view?r=eyJrIjoiZmYyNjBlZWItNWI5Ni00OWZkLWE4NjUtMzgwNzgyMjM5ZWI5IiwidCI6ImIzYTkwYTI1LWY2YTUtNDNiYy04YTljLTJhZjNjOWZmNWQ5YiIsImMiOjEwfQ%3D%3D). But, some features like key influencers are disabled for the web. So please open at your own discretion.
-
-
+If you are short on time, you can view it in the [web here](https://app.powerbi.com/view?r=eyJrIjoiMjFjMmU5MzktNzRlOC00ZmM2LWFkMjAtY2I1ZjQ0ZWQ0NWM5IiwidCI6IjFjNzkxY2Y3LTIwODctNGYyMC1hMGQzLTIwNjEyNGM2ZDllZiIsImMiOjEwfQ%3D%3D). But, some features like key influencers are disabled for the web. So please open at your own discretion.
 
 ---
 

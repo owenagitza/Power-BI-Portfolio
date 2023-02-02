@@ -16,7 +16,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	_Tools: DAX, Power BI, Power Query_
 
-- [Market & Competitor Analysis](https://github.com/owenagitza/Power-BI-Portfolio/tree/main/COVID-19_Dashboard): Market and competitor analysis report. I used dataset maintained by [Microsoft](https://powerbi.microsoft.com/en-us/diad/) to perform a market landscape analysis for a retailer industry. The project includes:
+- [Market & Competitor Analysis](https://github.com/owenagitza/Power-BI-Portfolio/tree/main/Market_and_Competitor_Analysis): Market and competitor analysis report. I used dataset maintained by [Microsoft](https://powerbi.microsoft.com/en-us/diad/) to perform a market landscape analysis for a retailer industry. The project includes:
 	- Market analysis
 	- Competitor analysis
 
