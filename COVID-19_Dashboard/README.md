@@ -1,5 +1,4 @@
 ### Table of Contents
-
 - [Description](#description)
 - [Problem Statement](#problem-statement)
 - [Dataset Information](#dataset-information)
@@ -10,13 +9,11 @@
 ---
 
 ## Description
-
 This report provides a real time interactive COVID-19 analytics and insights using real world dataset. The project includes end-to-end data process including ETL, data modelling, data exploration, and data visualization. The tools used to produce this report include DAX, Power BI, Power Query.
 
 ---
 
 ## Problem Statement
-
 The coronavirus disease 2019 (COVID-19) is rapidly spreading disease that has gained attention around the globe. The author's aim is to develop and deliver useful COVID-19 analytics for public use to combat and report the spread of COVID-19.
 
 In this report, the author wishes to answer these questions which are listed as follows:
@@ -29,20 +26,19 @@ In this report, the author wishes to answer these questions which are listed as 
 ---
 
 ## Dataset Information
-
 The dataset used in this report is a collection of the COVID-19 data maintained by [Our World in Data](https://ourworldindata.org/coronavirus). It is updated daily and includes data on confirmed cases, deaths, and testing. You can find the complete Our World in Data COVID-19 dataset—together with a complete overview of the sources and more at its [GitHub repository](https://github.com/owid/covid-19-data/tree/master/public/data/). The data you can find here includes:
 
-- **Confirmed cases and deaths:** Data comes from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) (JHU). The methodology for collection of this data is discussed [here](https://ourworldindata.org/coronavirus-source-data). The cases & deaths dataset is updated daily.
+- **Confirmed Cases and Deaths:** Data comes from the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) (JHU). The methodology for collection of this data is discussed [here](https://ourworldindata.org/coronavirus-source-data). The cases & deaths dataset is updated daily.
   - Note: confirmed cases and deaths are collected by Johns Hopkins University by date of report, rathen than date of test/death. Therefore the number they report on a given day does not necessarily represent the actual number on that date, because of the long reporting chain that exists between a new case/death and its inclusion in statistics. This also means that time series can show sudden changes (negative or positive) when a country corrects historical data, because it had previously under- or overestimated the number of cases/deaths.
-- **Hospitalizations and intensive care unit (ICU) admissions:** Data is collected from official sources and collated by Our World in Data. The complete list of country-by-country sources is available [here](https://github.com/owid/covid-19-data/blob/master/public/data/hospitalizations/locations.csv).
+- **Hospitalizations and Intensive Care Unit (ICU) Admissions:** Data is collected from official sources and collated by Our World in Data. The complete list of country-by-country sources is available [here](https://github.com/owid/covid-19-data/blob/master/public/data/hospitalizations/locations.csv).
 - **Testing for COVID-19:** Data is collected by the _Our World in Data_ team from official reports; you can find
 further details in the [checklist of questions to understand testing
 data](https://ourworldindata.org/coronavirus-testing#our-checklist-for-covid-19-testing-data), information on
 [geographical and temporal
 coverage](https://ourworldindata.org/coronavirus-testing#which-countries-do-we-have-testing-data-for), and [detailed
 country-by-country source information](https://ourworldindata.org/coronavirus-testing#source-information-country-by-country). **On 23 June 2022, new datapoints were stopped being added to the COVID-19 testing dataset.** You can read more [here](https://github.com/owid/covid-19-data/discussions/2667).
-- **Vaccinations against COVID-19:** Data is collected by the _Our World in Data_ team from official reports.
-- **Other variables:** Data is collected from a variety of sources (United Nations, World Bank, Global Burden of Disease, Blavatnik School of Government, etc.). More information is available in [this codebook](https://github.com/owid/covid-19-data/tree/master/public/data/owid-covid-codebook.csv).
+- **Vaccinations Against COVID-19:** Data is collected by the _Our World in Data_ team from official reports.
+- **Other Variables:** Data is collected from a variety of sources (United Nations, World Bank, Global Burden of Disease, Blavatnik School of Government, etc.). More information is available in [this codebook](https://github.com/owid/covid-19-data/tree/master/public/data/owid-covid-codebook.csv).
 
 ---
 
@@ -88,7 +84,6 @@ Remember to **refresh** the dataset first to get the latest real time data by go
 ![Refresh](Images/refresh.jpg)
 
 ### Open on the Web
-
 If you are short on time, you can view it in the [web here](https://app.powerbi.com/view?r=eyJrIjoiZmYyNjBlZWItNWI5Ni00OWZkLWE4NjUtMzgwNzgyMjM5ZWI5IiwidCI6ImIzYTkwYTI1LWY2YTUtNDNiYy04YTljLTJhZjNjOWZmNWQ5YiIsImMiOjEwfQ%3D%3D). But, some features like key influencers are disabled for the web. So please open at your own discretion.
 
 
@@ -96,6 +91,5 @@ If you are short on time, you can view it in the [web here](https://app.powerbi.
 ---
 
 ## Author Info
-
 - LinkedIn - [Owen Agitza](https://www.linkedin.com/in/owenagitza/)
 
